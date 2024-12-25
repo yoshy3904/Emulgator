@@ -1,0 +1,9 @@
+[
+    {
+        "name": "tdm64-gcc-10.3.0",
+        "compilers": {
+            "C": "${workspaceFolder}\\..\\..\\TDM-GCC-MinGW\\bin\\gcc.exe",
+            "CXX": "${workspaceFolder}\\..\\..\\TDM-GCC-MinGW\\bin\\g++.exe"
+        }
+    }
+]

@@ -1,0 +1,6 @@
+https://gbdev.io/list.html#peripherals 				- Collection of many good resources.
+https://gbdev.io/pandocs/About.html 				- PanDocs.
+https://www.pastraiser.com/cpu/gameboy/gameboy_opcodes.html 	- Opcode list (Cycles are partially wrong for 0xcb opcodes)
+http://marc.rawer.de/Gameboy/Docs/GBCPUman.pdf 			- It seems like this source is wrong with the instructions RRCA RLCA RRA RLA. The zero flag is NOT set, but reset.
+https://github.com/Gekkio/mooneye-gb 				- Test roms by mooneye.
+https://github.com/retrio/gb-test-roms 				- Test roms by blargg.
